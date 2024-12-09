@@ -31,4 +31,11 @@ ChurnShield is a predictive analytics project focused on telecom customer retent
 [Git Path: Twitter_Sentiment_Analysis](https://github.com/pradeepnare/Data_Science_Portfolio/tree/621e046442d946838681b7eb3f04ea48c87b9522/Twitter_Sentiment_Analysis)
 
 
+## Sales Forecasting 
+
+Demand planning for the stores is a crucial element to ensure the stores are not overstocked or under-stocked, thus enabling a competitive edge in the market. However, the business currently believe that they are not able to leverage the power of data driven analytics solution for the same. 
+
+[Git Path: Sales Forecasting](https://github.com/pradeepnare/Data_Science_Portfolio/tree/b4e5d986929e7a88cdb34fddaa1204d39061b376/Sales_Forecasting)
+
+
 
