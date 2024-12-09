@@ -3,7 +3,7 @@ Welcome to the repository showcasing my journey through diverse data science pro
 
 Using Python, I've explored methodologies such as statistical analysis and machine learning algorithms to address complex data problems. PowerBI has been instrumental in creating interactive visualizations and insightful dashboards, while presentations in audio and video formats have been crafted to effectively communicate findings to diverse audiences.
 
-!image here
+![alt text](DS_image.webp)
 
 
 Within this repository, you'll discover:
