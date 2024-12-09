@@ -22,7 +22,7 @@ Explore the documentation, visualizations, and methodologies presented here to g
 
 ChurnShield is a predictive analytics project focused on telecom customer retention. It leverages machine learning models to predict customer churn based on historical data and customer behavior patterns. The project aims to help telecom companies proactively identify customers at risk of leaving and implement targeted retention strategies to reduce churn rates.
 
-[Git Path:[Telecom-Customer-Churn](https://github.com/pradeepnare/Data_Science_Portfolio/tree/621e046442d946838681b7eb3f04ea48c87b9522/Telecom-Customer-Churn)
+[Git Path:Telecom-Customer-Churn](https://github.com/pradeepnare/Data_Science_Portfolio/tree/621e046442d946838681b7eb3f04ea48c87b9522/Telecom-Customer-Churn)
 
 ## Tweet Sense: Sentiment Analysis of Tweets Using Natural Language Processing
 
