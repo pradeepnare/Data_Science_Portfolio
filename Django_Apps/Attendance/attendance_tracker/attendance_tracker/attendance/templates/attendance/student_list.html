@@ -1,0 +1,10 @@
+{% extends "base_generic.html" %}
+{% block content %}
+<h2>Student List</h2>
+<ul>
+    {% for student in students %}
+        <li>{{ student.first_name }} {{ student.last_name }}</li>
+    {% endfor %}
+</ul>
+<a href="{% url 'record_attendance' %}">Record Attendance</a>
+{% endblock %}
