@@ -1,0 +1,6 @@
+*.DS_Store
+*.iynb_checkpoints
+*venv/
+*__pycache__
+*.web
+Django*
